@@ -112,6 +112,7 @@ Description: "General composition for the Emergency Record"
 * section[sectionCognitiveDisability].text.div = "<div xmlns='http://www.w3.org/1999/xhtml'><ul><li>Gehbehinderung</li></ul></div>"
 * section[sectionCognitiveDisability].entry[observation][0] = Reference(EX-CognitiveDisability)
 
+// Disability physical section
 * section[sectionPhysicalDisability].title = "Physische Beeinträchtigungen"
 * section[sectionPhysicalDisability].code = $loinc#96386-8 "Physical impairment information"
 * section[sectionPhysicalDisability].text.status = #generated
