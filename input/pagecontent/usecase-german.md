@@ -42,7 +42,6 @@ Der behandelnde Notarzt koordiniert die Versorgung unter Berücksichtigung der b
 
 Den vollständigen [eNotfallpass für Laura Weber](Bundle-UC3-Bundle-emr-LauraWeber.html) enthält alle schwangerschaftsspezifischen Informationen für die optimale Notfallversorgung.
 
-
 ### Use Case 4: Multimorbider Patient mit komplexer Medikation
 
 [Rudolf Zimmermann](Patient-UC4-Patient-RudolfZimmermann.html), 85 Jahre alt, wird von Angehörigen wegen zunehmender Verwirrtheit und Sturz zu Hause ins Spital gebracht. Der eNotfallpass zeigt eine komplexe medizinische Historie:
