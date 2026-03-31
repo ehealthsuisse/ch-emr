@@ -17,7 +17,7 @@ Alias: $sct-ch =                        http://snomed.info/sct|http://snomed.inf
 Alias: $edqm =                          http://standardterms.edqm.eu
 
 // Profiles
-Alias: $ChCoreDocumentReference =         http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-documentreference
+Alias: $ChCoreDocumentReference =        http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-documentreference
 Alias: $ChCoreDocument =                  http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-document
 Alias: $ChCoreRelatedPerson =             http://fhir.ch/ig/ch-core/StructureDefinition/ch-core-relatedperson  
 
